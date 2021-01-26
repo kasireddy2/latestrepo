@@ -204,3 +204,6 @@ ipconfig -a
 sudo su
 sudo su
 man git commit
+sudo su
+sudo su
+sudo su
